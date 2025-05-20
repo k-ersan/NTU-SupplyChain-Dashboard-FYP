@@ -13,16 +13,15 @@ This project aimed to:
 - Support forecasting through synthetic historical data and time-series modeling
 
 
-## 📦 Download Tableau Dashboard
+📦 Downloads (External Storage)
+Due to GitHub file size limitations, the Tableau workbook and datasets are hosted on Google Drive:
 
-Due to GitHub's file size limit, the full Tableau workbook is hosted on Google Drive:
+📊 Tableau Dashboard
+👉 Download SupplyChain_Dashboard.twbx (29.3MB)
 
-👉 [Download SupplyChain_Dashboard.twbx (29.3MB)](https://drive.google.com/drive/folders/1H6qutCsdmDnfxZzL-heGgBbB1TirNu9A?usp=sharing)
+📁 Datasets Folder
+👉 Download Final Datasets (CSV format)
 
-The packaged workbook (`.twbx`) includes:
-- All dashboard visuals
-- Embedded datasets
-- Calculated fields and filters
 
 ## 🔄 For Future Contributors
 
