@@ -12,16 +12,6 @@ This project aimed to:
 - Design a scalable Tableau dashboard for visual insight and interactivity
 - Support forecasting through synthetic historical data and time-series modeling
 
----
-
-## 📁 Repository Structure
-├── data/ # Final engineered datasets (CSV format)
-├── dashboards/ # Tableau workbook (.twbx) hosted externally
-├── notebooks/ # Python notebooks for feature engineering & forecasting
-├── report/ # Final FYP report in PDF
-├── README.md # Project documentation (this file)
-
----
 
 ## 📦 Download Tableau Dashboard
 
